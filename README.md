@@ -19,5 +19,4 @@ One raspberry pi was the master, and a second raspbery pi was a slave
 that served as a server for sending real-time imaging to the master.
 The Arduino was also a slave, it handled the TMP36 temperature sensor and a small 4 wire Fan.
 
-![System Diagram]
-(https://github.com/kenyaachon/arduinoraspberrypi/blob/main/SystemDiagram.png)
+![System Diagram](https://github.com/kenyaachon/arduinoraspberrypi/blob/main/SystemDiagram.png)
